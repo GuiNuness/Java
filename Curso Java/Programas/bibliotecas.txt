@@ -1,0 +1,8 @@
+Utilitários = import java.util.*
+Criação de apps = import java.applet.*
+Funções matemáticas = import java.math.*
+Redes = import java.net.*
+Bibliotecas para som = import javax.sound.*;
+Mídias = import javax.media;
+Biblioteca Swing(surgiu da AWT) interface gráfica = import javax.swing.*
+FX = import javafx.fxml.*
